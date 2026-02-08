@@ -1,1 +1,1 @@
-https://my-first-project.github.io.js
+https://my-first-project.github.io/top_bar.js
